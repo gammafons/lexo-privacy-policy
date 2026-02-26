@@ -1,49 +1,41 @@
-# Privacy Policy
+# Privacy Policy for Lexo
 
-**Effective Date:** February 26, 2026
+Effective Date: February 26, 2026
 
-This Privacy Policy describes how **Gammafons** ("we", "us", or "our") collects, uses, and shares information about you when you use our mobile application (the "App").
+Lexo ("the App") is developed as a free app. This SERVICE is provided at no cost and is intended for use as is.
 
-## Information We Collect
+This page is used to inform visitors regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-We may collect the following types of information:
+If you choose to use Lexo, then you agree to the collection and use of information in relation to this policy. No personal information is collected by Lexo.
 
-- **Usage Data:** Information about how you interact with the App, such as features used and time spent in the App.
-- **Device Information:** Information about your device, including device model, operating system version, and unique device identifiers.
-- **Log Data:** Technical information, including your IP address, app crashes, and performance data.
+## Information Collection and Use
 
-We do **not** collect any personally identifiable information unless you voluntarily provide it.
+Lexo does **not** collect, store, or transmit any personally identifiable information (PII). All game data, including your statistics (games played, wins, streaks, and guess distribution) and game progress, is stored locally on your device using your device's internal storage. This data is not shared with the developer or any third parties.
 
-## How We Use Your Information
+## Log Data
 
-We use the information we collect to:
+The App does not collect log data or use any third-party services that may collect information used to identify you.
 
-- Operate, maintain, and improve the App.
-- Understand how users interact with the App.
-- Diagnose technical issues and ensure App stability.
+## Cookies
 
-## Sharing of Information
+The App does not use cookies.
 
-We do not sell, trade, or rent your personal information to third parties. We may share information with third-party service providers solely to the extent necessary to operate the App (e.g., analytics services), subject to confidentiality obligations.
+## Service Providers
 
-## Data Retention
-
-We retain collected data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy.
-
-## Children's Privacy
-
-The App is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly remove it.
+The App does not employ third-party companies or individuals. There are no third-party analytics, advertisements, or crash reporting tools integrated into the App.
 
 ## Security
 
-We take reasonable measures to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. However, no security system is impenetrable.
+Although no personal data is collected or transmitted, I value your trust in using the App. All game-related data is kept only on your device.
+
+## Children’s Privacy
+
+Lexo does not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. Since no personal data is collected from any user, no such data is collected from children.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by updating the effective date at the top of this document. Continued use of the App after changes constitutes your acceptance of the updated policy.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-## Contact Us
+## Contact Me
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-**Email:** support@gammafons.com
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gmagnofonseca+lexo@gmail.com.
